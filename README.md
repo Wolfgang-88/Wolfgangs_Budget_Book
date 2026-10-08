@@ -1,12 +1,8 @@
 Wolfgang's Budget Book
 
 ## Video Tutorial
-
-<a href="https://youtu.be" target="_blank">
-  <img src="https://youtube.com" alt="Wolfgangs Budget Book Video" width="100%" max-width="600" />
-</a>
-
-*Klicke auf das Bild, um das Video auf YouTube abzuspielen.*
+[![Wolfgangs Budget Book Video](https://i9.ytimg.com/vi_webp/NtzZFpFrDI4/mqdefault.webp?v=6ac5c78d&sqp=CLiyndYG&rs=AOn4CLBm84dPrMIkve-8_AUImJr9mp9xGw)](https://youtu.be/NtzZFpFrDI4)
+*Click the image above to watch the feature walkthrough.*
 
 
 
