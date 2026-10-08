@@ -93,4 +93,5 @@ Gefällt dir das Programm? Unterstütze die Entwicklung mit einem Kaffee ☕
 
 ## Video Tutorial
 [![Wolfgangs Budget Book Video](https://youtube.com)](https://youtu.be/NtzZFpFrDI4)
-*Click the image above to watch the feature walkthrough.*
+
+*Click the link above to watch the feature walkthrough.*
