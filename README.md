@@ -9,7 +9,8 @@ Wolfgang's Budget Book
 *Klicke auf das Bild, um das Video auf YouTube abzuspielen.*
 
 
-English  (Deutsch weiter unten)
+
+### English ###    (Deutsch weiter unten)
 
 A lean budget book for Windows: record income, expenses and transfers between accounts, review them by month and year, and keep everything locally on your own PC. No account, no cloud, no ads.
 Freeware – free for personal use.
@@ -55,7 +56,7 @@ Freeware. Free to use and redistribute in its original, unmodified form. No modi
 
 ---
 
-Deutsch
+### Deutsch ###
 
 Ein schlankes Haushaltsbuch für Windows: Einnahmen, Ausgaben und Umbuchungen zwischen Konten erfassen, nach Monaten und Jahren auswerten, alles lokal auf dem eigenen Rechner. Kein Konto, keine Cloud, keine Werbung.
 
